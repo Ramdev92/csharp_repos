@@ -1,0 +1,15 @@
+C:\Users\yogitha\source\repos\Employee_Project\bin\Debug\net6.0\Employee_Project.exe
+C:\Users\yogitha\source\repos\Employee_Project\bin\Debug\net6.0\Employee_Project.deps.json
+C:\Users\yogitha\source\repos\Employee_Project\bin\Debug\net6.0\Employee_Project.runtimeconfig.json
+C:\Users\yogitha\source\repos\Employee_Project\bin\Debug\net6.0\Employee_Project.dll
+C:\Users\yogitha\source\repos\Employee_Project\bin\Debug\net6.0\Employee_Project.pdb
+C:\Users\yogitha\source\repos\Employee_Project\obj\Debug\net6.0\Employee_Project.csproj.AssemblyReference.cache
+C:\Users\yogitha\source\repos\Employee_Project\obj\Debug\net6.0\Employee_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogitha\source\repos\Employee_Project\obj\Debug\net6.0\Employee_Project.AssemblyInfoInputs.cache
+C:\Users\yogitha\source\repos\Employee_Project\obj\Debug\net6.0\Employee_Project.AssemblyInfo.cs
+C:\Users\yogitha\source\repos\Employee_Project\obj\Debug\net6.0\Employee_Project.csproj.CoreCompileInputs.cache
+C:\Users\yogitha\source\repos\Employee_Project\obj\Debug\net6.0\Employee_Project.dll
+C:\Users\yogitha\source\repos\Employee_Project\obj\Debug\net6.0\refint\Employee_Project.dll
+C:\Users\yogitha\source\repos\Employee_Project\obj\Debug\net6.0\Employee_Project.pdb
+C:\Users\yogitha\source\repos\Employee_Project\obj\Debug\net6.0\Employee_Project.genruntimeconfig.cache
+C:\Users\yogitha\source\repos\Employee_Project\obj\Debug\net6.0\ref\Employee_Project.dll
